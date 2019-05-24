@@ -1,0 +1,68 @@
+//Intoduction:
+
+	Java is Computer Programming language 
+	High level language  
+	Object oriented Programming Language
+	Open Source Language develop by Sun Micro ....but now it is buy to Oracle.
+	It is  platform independent means any os it can work
+
+Prerequisite:
+
+		    JRE,JVM(JDK)
+		    Eclipse ---editor tool IDE(integrated Development enviornment)    
+		    Visual Studio code----editor tool   ...etc tools use for java coding
+    
+Tutorial 1:
+	        DataType for variable;
+	        
+	        only one main method should be inside class for execute program. 
+	        // use for comment (documentation about linecode)
+	        	           
+	        data type is (keyword)---int,double,char,boolean etc....
+	       
+     primitive data type:  int ,double,char,boolean;
+            
+            Note : String is class not a data types...but we can use as data type
+            
+ tutorial 2:
+       ------operators use mostly in if else-----
+        if() else { }--keyword 
+        else if(){   --keyword
+        
+        }      
+        
+ tutorial 3:      
+        operators:  >, < , <=, >= ,==     
+        
+ Tutorial 4:   Looping concept
+    
+        while -----keyword
+        
+        increment ---decrement
+      
+ Tutorial 5: Array  (one dimensional.....two dimensional)
+        
+   Note: disadvantage
+   
+        1:    Static array has always size is fix...
+        	we can not add out of size element...
+        2:   Store similar data type value at a time          
+          
+          .length()   ---get size of array
+         similar data type value can store
+	     
+	       Declaration:  
+	         int a[]=new int[size];
+	       putting value:
+	         a[1]=23;        
+        
+  Note:       Exception-----ArrayIndexOutOfBoundExcep....
+                
+       
+                    
+       
+       
+       
+       
+       
+               

@@ -1,0 +1,23 @@
+Class----	it is an entity in the form  of in the form of method
+
+Object----	physical entity create for particular classObject for refering its 
+			properties
+
+			
+Note:     class is create by using new keyword
+          
+          Car a		=new Car();
+          
+          object refference variable ----a
+          object is ---------------------new Car()	
+          
+ Functions/Method():  ---
+                 Non Static Method--
+                       after creating an object we can acess all copy of non static method
+                 
+                 void --does not return any value
+                 int --return int value
+                 we can return any datat type value like as string,int,double  
+
+why main method is void ?
+       It never return value so we use void in main method.                      		

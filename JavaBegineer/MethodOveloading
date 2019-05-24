@@ -1,0 +1,11 @@
+
+Method overloading :
+      we can not create method inside method
+      duplicate method name-----same method name with same argument not allow
+
+Note: Same method name with diff parameter is called Method Overloading      
+      yes we can overload main method also
+      
+      same method name with same no of parameter but diff datatype parameter is allow
+      
+      

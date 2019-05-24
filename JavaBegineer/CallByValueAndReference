@@ -1,0 +1,8 @@
+CallBy Value:
+          
+           		calling method to providing parameter
+           
+CallBy Reference:
+       
+                passing object reference to method and use it for initilize value
+                Local variable copy declare in some format
