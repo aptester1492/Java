@@ -2,7 +2,7 @@ package OOPConceptPart1;
 
 public class CallByValue {
 
-	
+	/* it is a call by value concept*/
 	int p;
 	int q;
 	public static void main(String[] args) {
